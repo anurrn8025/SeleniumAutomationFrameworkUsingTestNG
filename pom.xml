@@ -20,7 +20,7 @@
   <version>3.5.0</version>
   <type>pom</type>
 </dependency>
-	  https://mvnrepository.com/artifact/org.codehaus.gmavenplus/gmavenplus-plugin -->
+	
 		<dependency>
 			<groupId>org.codehaus.gmavenplus</groupId>
 			<artifactId>gmavenplus-plugin</artifactId>
