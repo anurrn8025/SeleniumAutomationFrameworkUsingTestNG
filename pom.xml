@@ -4,6 +4,10 @@
   <artifactId>SeleniumAutomationFramework1</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>SeleniumAutomationFramework</name>
+	   <properties>
+   <maven.compiler.source>6</maven.compiler.source>
+   <maven.compiler.target>1.6</maven.compiler.target>
+ </properties>
   <dependencies>
 		<dependency>
 			<groupId>org.seleniumhq.selenium</groupId>
