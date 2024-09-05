@@ -1,0 +1,295 @@
+20231029 06:07:21 INFO  [main] Scripts.FirebaseAutomationScript FirebaseAutomationScript.java44 - ******invalid_login_to_firebase1 automation script started***********
+20231029 06:07:33 INFO  [main] Scripts.FirebaseAutomationScript FirebaseAutomationScript.java21 - ******login_to_firebase automation script started***********
+20231029 06:20:10 INFO  [main] Scripts.FirebaseAutomationScript FirebaseAutomationScript.java44 - ******invalid_login_to_firebase1 automation script started***********
+20231029 06:20:22 INFO  [main] Scripts.FirebaseAutomationScript FirebaseAutomationScript.java21 - ******login_to_firebase automation script started***********
+20231030 04:42:47 INFO  [main] Scripts.SalesforceLoginScript SalesforceLoginScript.java87 - ******login_to_salesforce_CheckRemeberMe automation script started***********
+20231030 04:43:04 INFO  [main] Scripts.SalesforceLoginScript SalesforceLoginScript.java196 - ******login_to_salesforce - ForgotPassword automation script started***********
+20231030 04:43:17 INFO  [main] Scripts.SalesforceLoginScript SalesforceLoginScript.java251 - ******login_to_salesforce_ForgotPassword script completed***********
+20231030 04:43:21 INFO  [main] Scripts.SalesforceLoginScript SalesforceLoginScript.java317 - ******login_to_salesforce_IncorrectCredentials automation script started***********
+20231030 04:43:33 INFO  [main] Scripts.SalesforceLoginScript SalesforceLoginScript.java365 - ******login_to_salesforce_IncorrectCredentials script completed***********
+20231030 04:43:37 INFO  [main] Scripts.SalesforceLoginScript SalesforceLoginScript.java29 - ******login_to_salesforce - password empty automation script started***********
+20231030 04:43:44 INFO  [main] Scripts.SalesforceLoginScript SalesforceLoginScript.java79 - ******login_to_salesforce - password empty automation script completed***********
+20231030 04:43:47 INFO  [main] Scripts.SalesforceLoginScript SalesforceLoginScript.java260 - ******login_to_salesforce - successfully automation script started***********
+20231030 04:44:01 INFO  [main] Scripts.SalesforceLoginScript SalesforceLoginScript.java308 - ******login_to_salesforce - successfully script completed***********
+20231030 04:44:08 INFO  [main] Scripts.SalesforceLoginScript SalesforceLoginScript.java87 - ******login_to_salesforce_CheckRemeberMe automation script started***********
+20231030 04:44:27 INFO  [main] Scripts.SalesforceLoginScript SalesforceLoginScript.java196 - ******login_to_salesforce - ForgotPassword automation script started***********
+20231030 04:44:40 INFO  [main] Scripts.SalesforceLoginScript SalesforceLoginScript.java251 - ******login_to_salesforce_ForgotPassword script completed***********
+20231030 04:44:47 INFO  [main] Scripts.SalesforceLoginScript SalesforceLoginScript.java317 - ******login_to_salesforce_IncorrectCredentials automation script started***********
+20231030 04:44:59 INFO  [main] Scripts.SalesforceLoginScript SalesforceLoginScript.java365 - ******login_to_salesforce_IncorrectCredentials script completed***********
+20231030 04:45:06 INFO  [main] Scripts.SalesforceLoginScript SalesforceLoginScript.java29 - ******login_to_salesforce - password empty automation script started***********
+20231030 04:45:12 INFO  [main] Scripts.SalesforceLoginScript SalesforceLoginScript.java79 - ******login_to_salesforce - password empty automation script completed***********
+20231030 04:45:19 INFO  [main] Scripts.SalesforceLoginScript SalesforceLoginScript.java260 - ******login_to_salesforce - successfully automation script started***********
+20231030 04:45:32 INFO  [main] Scripts.SalesforceLoginScript SalesforceLoginScript.java308 - ******login_to_salesforce - successfully script completed***********
+20231030 05:24:00 INFO  [main] Scripts.SalesforceLoginScript SalesforceLoginScript.java87 - ******login_to_salesforce_CheckRemeberMe automation script started***********
+20231030 05:24:17 INFO  [main] Scripts.SalesforceLoginScript SalesforceLoginScript.java196 - ******login_to_salesforce - ForgotPassword automation script started***********
+20231030 05:24:30 INFO  [main] Scripts.SalesforceLoginScript SalesforceLoginScript.java251 - ******login_to_salesforce_ForgotPassword script completed***********
+20231030 05:24:36 INFO  [main] Scripts.SalesforceLoginScript SalesforceLoginScript.java317 - ******login_to_salesforce_IncorrectCredentials automation script started***********
+20231030 05:24:49 INFO  [main] Scripts.SalesforceLoginScript SalesforceLoginScript.java365 - ******login_to_salesforce_IncorrectCredentials script completed***********
+20231030 05:24:53 INFO  [main] Scripts.SalesforceLoginScript SalesforceLoginScript.java29 - ******login_to_salesforce - password empty automation script started***********
+20231030 05:25:03 INFO  [main] Scripts.SalesforceLoginScript SalesforceLoginScript.java79 - ******login_to_salesforce - password empty automation script completed***********
+20231030 05:25:07 INFO  [main] Scripts.SalesforceLoginScript SalesforceLoginScript.java260 - ******login_to_salesforce - successfully automation script started***********
+20231030 05:25:21 INFO  [main] Scripts.SalesforceLoginScript SalesforceLoginScript.java308 - ******login_to_salesforce - successfully script completed***********
+20231030 05:25:31 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java34 - ******salesforce - UserMenuDropDown automation script started***********
+20231030 05:25:42 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java74 - ******salesforce - UserMenuDropDown automation script completed***********
+20231030 05:25:48 INFO  [main] Scripts.SalesforceLoginScript SalesforceLoginScript.java87 - ******login_to_salesforce_CheckRemeberMe automation script started***********
+20231030 05:26:11 INFO  [main] Scripts.SalesforceLoginScript SalesforceLoginScript.java196 - ******login_to_salesforce - ForgotPassword automation script started***********
+20231030 05:26:24 INFO  [main] Scripts.SalesforceLoginScript SalesforceLoginScript.java251 - ******login_to_salesforce_ForgotPassword script completed***********
+20231030 05:26:33 INFO  [main] Scripts.SalesforceLoginScript SalesforceLoginScript.java317 - ******login_to_salesforce_IncorrectCredentials automation script started***********
+20231030 05:26:45 INFO  [main] Scripts.SalesforceLoginScript SalesforceLoginScript.java365 - ******login_to_salesforce_IncorrectCredentials script completed***********
+20231030 05:26:52 INFO  [main] Scripts.SalesforceLoginScript SalesforceLoginScript.java29 - ******login_to_salesforce - password empty automation script started***********
+20231030 05:27:04 INFO  [main] Scripts.SalesforceLoginScript SalesforceLoginScript.java79 - ******login_to_salesforce - password empty automation script completed***********
+20231030 05:27:13 INFO  [main] Scripts.SalesforceLoginScript SalesforceLoginScript.java260 - ******login_to_salesforce - successfully automation script started***********
+20231030 05:27:27 INFO  [main] Scripts.SalesforceLoginScript SalesforceLoginScript.java308 - ******login_to_salesforce - successfully script completed***********
+20231030 05:27:37 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java34 - ******salesforce - UserMenuDropDown automation script started***********
+20231030 05:27:48 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java74 - ******salesforce - UserMenuDropDown automation script completed***********
+20231030 05:34:47 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java34 - ******salesforce - UserMenuDropDown automation script started***********
+20231030 05:34:57 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java74 - ******salesforce - UserMenuDropDown automation script completed***********
+20231030 05:35:02 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java83 - ******salesforce - login automation script started***********
+20231030 05:35:13 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java109 - ******salesforce - login automation script completed***********
+20231030 05:35:16 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java450 - ******salesforce - DevelopersConsole automation script started***********
+20231030 05:35:19 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java490 - ******salesforce - Logout automation script started***********
+20231030 05:35:26 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java116 - ******salesforce - editMyProfile automation script started***********
+20231030 05:35:30 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java319 - ******salesforce - mySettings automation script started***********
+20231030 05:35:34 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java183 - ******salesforce - postLink automation script started***********
+20231030 05:35:37 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java275 - ******salesforce - updateProfilePicture automation script started***********
+20231030 05:35:40 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java227 - ******salesforce - uploadFile automation script started***********
+20231030 05:37:41 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java34 - ******salesforce - UserMenuDropDown automation script started***********
+20231030 05:37:52 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java74 - ******salesforce - UserMenuDropDown automation script completed***********
+20231030 05:37:57 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java83 - ******salesforce - login automation script started***********
+20231030 05:38:10 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java109 - ******salesforce - login automation script completed***********
+20231030 05:38:13 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java450 - ******salesforce - DevelopersConsole automation script started***********
+20231030 05:38:16 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java490 - ******salesforce - Logout automation script started***********
+20231030 05:38:22 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java116 - ******salesforce - editMyProfile automation script started***********
+20231030 05:38:25 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java319 - ******salesforce - mySettings automation script started***********
+20231030 05:38:40 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java183 - ******salesforce - postLink automation script started***********
+20231030 05:38:44 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java275 - ******salesforce - updateProfilePicture automation script started***********
+20231030 05:38:48 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java227 - ******salesforce - uploadFile automation script started***********
+20231030 05:40:25 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java83 - ******salesforce - login automation script started***********
+20231030 05:40:35 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java109 - ******salesforce - login automation script completed***********
+20231030 05:40:40 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java116 - ******salesforce - editMyProfile automation script started***********
+20231030 05:46:16 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java34 - ******salesforce - UserMenuDropDown automation script started***********
+20231030 05:46:27 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java74 - ******salesforce - UserMenuDropDown automation script completed***********
+20231030 05:46:34 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java83 - ******salesforce - login automation script started***********
+20231030 05:46:45 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java109 - ******salesforce - login automation script completed***********
+20231030 05:46:48 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java450 - ******salesforce - DevelopersConsole automation script started***********
+20231030 05:46:52 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java490 - ******salesforce - Logout automation script started***********
+20231030 05:46:59 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java116 - ******salesforce - editMyProfile automation script started***********
+20231030 05:47:05 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java319 - ******salesforce - mySettings automation script started***********
+20231030 05:47:08 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java183 - ******salesforce - postLink automation script started***********
+20231030 05:47:12 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java275 - ******salesforce - updateProfilePicture automation script started***********
+20231030 05:47:16 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java227 - ******salesforce - uploadFile automation script started***********
+20231030 05:52:56 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java83 - ******salesforce - login automation script started***********
+20231030 05:53:10 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java109 - ******salesforce - login automation script completed***********
+20231030 05:53:10 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java456 - ******salesforce - DevelopersConsole automation script started***********
+20231030 05:53:15 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java489 - ******salesforce - DevelopersConsole automation script completed***********
+20231030 05:53:18 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java83 - ******salesforce - login automation script started***********
+20231030 05:53:34 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java109 - ******salesforce - login automation script completed***********
+20231030 05:53:34 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java497 - ******salesforce - Logout automation script started***********
+20231030 05:53:40 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java519 - ******salesforce - Logout automation script completed***********
+20231030 06:01:27 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java83 - ******salesforce - login automation script started***********
+20231030 06:01:43 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java109 - ******salesforce - login automation script completed***********
+20231030 06:01:43 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java456 - ******salesforce - DevelopersConsole automation script started***********
+20231030 06:01:49 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java489 - ******salesforce - DevelopersConsole automation script completed***********
+20231030 06:01:57 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java83 - ******salesforce - login automation script started***********
+20231030 06:02:14 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java109 - ******salesforce - login automation script completed***********
+20231030 06:02:14 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java497 - ******salesforce - Logout automation script started***********
+20231030 06:02:22 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java519 - ******salesforce - Logout automation script completed***********
+20231030 06:02:36 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java34 - ******salesforce - UserMenuDropDown automation script started***********
+20231030 06:02:53 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java74 - ******salesforce - UserMenuDropDown automation script completed***********
+20231030 06:02:59 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java83 - ******salesforce - login automation script started***********
+20231030 06:03:19 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java109 - ******salesforce - login automation script completed***********
+20231030 06:03:19 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java117 - ******salesforce - editMyProfile automation script started***********
+20231030 06:03:34 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java83 - ******salesforce - login automation script started***********
+20231030 06:03:53 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java109 - ******salesforce - login automation script completed***********
+20231030 06:03:58 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java83 - ******salesforce - login automation script started***********
+20231030 06:04:13 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java109 - ******salesforce - login automation script completed***********
+20231030 06:04:13 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java324 - ******salesforce - mySettings automation script started***********
+20231030 06:04:39 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java448 - ******salesforce - mySettings automation script completed***********
+20231030 06:04:44 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java83 - ******salesforce - login automation script started***********
+20231030 06:05:09 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java109 - ******salesforce - login automation script completed***********
+20231030 06:05:09 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java185 - ******salesforce - postLink automation script started***********
+20231030 06:05:14 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java83 - ******salesforce - login automation script started***********
+20231030 06:05:38 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java109 - ******salesforce - login automation script completed***********
+20231030 06:05:38 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java279 - ******salesforce - updateProfilePicture automation script started***********
+20231030 06:05:44 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java83 - ******salesforce - login automation script started***********
+20231030 06:06:03 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java109 - ******salesforce - login automation script completed***********
+20231030 06:06:03 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java230 - ******salesforce - uploadFile automation script started***********
+20231030 06:11:15 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java83 - ******salesforce - login automation script started***********
+20231030 06:11:26 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java109 - ******salesforce - login automation script completed***********
+20231030 06:11:26 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java117 - ******salesforce - editMyProfile automation script started***********
+20231030 06:26:22 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java83 - ******salesforce - login automation script started***********
+20231030 06:26:34 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java109 - ******salesforce - login automation script completed***********
+20231030 06:26:34 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java469 - ******salesforce - DevelopersConsole automation script started***********
+20231030 06:26:39 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java502 - ******salesforce - DevelopersConsole automation script completed***********
+20231030 06:26:48 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java83 - ******salesforce - login automation script started***********
+20231030 06:27:22 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java109 - ******salesforce - login automation script completed***********
+20231030 06:27:22 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java510 - ******salesforce - Logout automation script started***********
+20231030 06:27:28 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java532 - ******salesforce - Logout automation script completed***********
+20231030 06:27:34 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java34 - ******salesforce - UserMenuDropDown automation script started***********
+20231030 06:27:59 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java83 - ******salesforce - login automation script started***********
+20231030 06:28:17 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java109 - ******salesforce - login automation script completed***********
+20231030 06:28:17 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java117 - ******salesforce - editMyProfile automation script started***********
+20231030 06:28:24 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java83 - ******salesforce - login automation script started***********
+20231030 06:28:49 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java109 - ******salesforce - login automation script completed***********
+20231030 06:29:00 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java83 - ******salesforce - login automation script started***********
+20231030 06:29:25 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java109 - ******salesforce - login automation script completed***********
+20231030 06:29:25 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java337 - ******salesforce - mySettings automation script started***********
+20231030 06:29:50 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java461 - ******salesforce - mySettings automation script completed***********
+20231030 06:29:59 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java83 - ******salesforce - login automation script started***********
+20231030 06:30:23 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java109 - ******salesforce - login automation script completed***********
+20231030 06:30:23 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java188 - ******salesforce - postLink automation script started***********
+20231030 06:30:41 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java83 - ******salesforce - login automation script started***********
+20231030 06:31:15 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java109 - ******salesforce - login automation script completed***********
+20231030 06:31:15 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java289 - ******salesforce - updateProfilePicture automation script started***********
+20231030 06:31:44 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java329 - ******salesforce - updateProfilePicture automation script completed***********
+20231030 06:32:13 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java83 - ******salesforce - login automation script started***********
+20231030 06:32:34 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java109 - ******salesforce - login automation script completed***********
+20231030 06:32:34 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java237 - ******salesforce - uploadFile automation script started***********
+20231030 06:32:40 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java281 - ******salesforce - uploadFile automation script completed***********
+20231030 07:01:41 INFO  [main] Scripts.SalesforceLoginScript SalesforceLoginScript.java87 - ******login_to_salesforce_CheckRemeberMe automation script started***********
+20231030 07:01:59 INFO  [main] Scripts.SalesforceLoginScript SalesforceLoginScript.java196 - ******login_to_salesforce - ForgotPassword automation script started***********
+20231030 07:02:15 INFO  [main] Scripts.SalesforceLoginScript SalesforceLoginScript.java251 - ******login_to_salesforce_ForgotPassword script completed***********
+20231030 07:02:22 INFO  [main] Scripts.SalesforceLoginScript SalesforceLoginScript.java317 - ******login_to_salesforce_IncorrectCredentials automation script started***********
+20231030 07:02:35 INFO  [main] Scripts.SalesforceLoginScript SalesforceLoginScript.java365 - ******login_to_salesforce_IncorrectCredentials script completed***********
+20231030 07:02:39 INFO  [main] Scripts.SalesforceLoginScript SalesforceLoginScript.java29 - ******login_to_salesforce - password empty automation script started***********
+20231030 07:02:48 INFO  [main] Scripts.SalesforceLoginScript SalesforceLoginScript.java79 - ******login_to_salesforce - password empty automation script completed***********
+20231030 07:02:51 INFO  [main] Scripts.SalesforceLoginScript SalesforceLoginScript.java260 - ******login_to_salesforce - successfully automation script started***********
+20231030 07:03:07 INFO  [main] Scripts.SalesforceLoginScript SalesforceLoginScript.java308 - ******login_to_salesforce - successfully script completed***********
+20231030 07:03:13 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java87 - ******salesforce - login automation script started***********
+20231030 07:03:22 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java113 - ******salesforce - login automation script completed***********
+20231030 07:03:22 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java473 - ******salesforce - DevelopersConsole automation script started***********
+20231030 07:03:27 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java506 - ******salesforce - DevelopersConsole automation script completed***********
+20231030 07:03:31 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java87 - ******salesforce - login automation script started***********
+20231030 07:03:44 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java113 - ******salesforce - login automation script completed***********
+20231030 07:03:44 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java514 - ******salesforce - Logout automation script started***********
+20231030 07:03:51 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java536 - ******salesforce - Logout automation script completed***********
+20231030 07:03:54 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java38 - ******salesforce - UserMenuDropDown automation script started***********
+20231030 07:04:04 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java78 - ******salesforce - UserMenuDropDown automation script completed***********
+20231030 07:04:07 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java87 - ******salesforce - login automation script started***********
+20231030 07:04:19 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java113 - ******salesforce - login automation script completed***********
+20231030 07:04:19 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java121 - ******salesforce - editMyProfile automation script started***********
+20231030 07:04:22 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java87 - ******salesforce - login automation script started***********
+20231030 07:04:38 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java113 - ******salesforce - login automation script completed***********
+20231030 07:04:42 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java87 - ******salesforce - login automation script started***********
+20231030 07:04:58 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java113 - ******salesforce - login automation script completed***********
+20231030 07:04:58 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java341 - ******salesforce - mySettings automation script started***********
+20231030 07:05:19 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java465 - ******salesforce - mySettings automation script completed***********
+20231030 07:05:22 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java87 - ******salesforce - login automation script started***********
+20231030 07:05:33 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java113 - ******salesforce - login automation script completed***********
+20231030 07:05:33 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java192 - ******salesforce - postLink automation script started***********
+20231030 07:05:39 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java233 - ******salesforce - postLink automation script completed***********
+20231030 07:05:43 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java87 - ******salesforce - login automation script started***********
+20231030 07:05:55 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java113 - ******salesforce - login automation script completed***********
+20231030 07:05:55 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java293 - ******salesforce - updateProfilePicture automation script started***********
+20231030 07:06:15 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java333 - ******salesforce - updateProfilePicture automation script completed***********
+20231030 07:06:19 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java87 - ******salesforce - login automation script started***********
+20231030 07:06:31 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java113 - ******salesforce - login automation script completed***********
+20231030 07:06:31 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java241 - ******salesforce - uploadFile automation script started***********
+20231030 07:06:38 INFO  [main] Scripts.SalesforceUserMenu SalesforceUserMenu.java285 - ******salesforce - uploadFile automation script completed***********
+20231030 11:08:03 INFO  [main] Scripts.SalesforceLoginScript SalesforceLoginScript.java87 - ******login_to_salesforce_CheckRemeberMe automation script started***********
+20231030 13:02:22 INFO  [main] Scripts.SalesforceLoginScript SalesforceLoginScript.java87 - ******login_to_salesforce_CheckRemeberMe automation script started***********
+20231030 13:12:20 INFO  [main] Scripts.SalesforceLoginScript SalesforceLoginScript.java87 - ******login_to_salesforce_CheckRemeberMe automation script started***********
+20231030 13:12:42 INFO  [main] Scripts.SalesforceLoginScript SalesforceLoginScript.java183 - ******login_to_salesforce_CheckRemeberMe automation script completed***********
+20231030 14:52:29 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java38 - ******login_to_salesforce - password empty automation script started***********
+20231030 14:52:31 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java53 - UserName & Password entered
+20231030 14:52:34 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java59 - In Accounts Page
+20231031 04:53:40 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java38 - ******login_to_salesforce - password empty automation script started***********
+20231031 04:53:44 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java53 - UserName & Password entered
+20231031 04:53:47 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java59 - In Accounts Page
+20231031 04:54:33 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java38 - ******login_to_salesforce - password empty automation script started***********
+20231031 04:54:38 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java53 - UserName & Password entered
+20231031 04:54:41 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java59 - In Accounts Page
+20231031 04:58:00 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java38 - ******login_to_salesforce - password empty automation script started***********
+20231031 04:58:03 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java53 - UserName & Password entered
+20231031 04:58:06 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java59 - In Accounts Page
+20231031 04:58:32 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java38 - ******login_to_salesforce - password empty automation script started***********
+20231031 04:58:39 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java38 - ******login_to_salesforce - password empty automation script started***********
+20231031 04:58:40 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java53 - UserName & Password entered
+20231031 04:58:43 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java53 - UserName & Password entered
+20231031 04:58:44 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java59 - In Accounts Page
+20231031 04:58:48 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java59 - In Accounts Page
+20231031 05:07:05 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java38 - ******login_to_salesforce - password empty automation script started***********
+20231031 05:07:08 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java53 - UserName & Password entered
+20231031 05:07:11 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java59 - In Accounts Page
+20231031 05:07:41 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java38 - ******login_to_salesforce - password empty automation script started***********
+20231031 05:07:44 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java53 - UserName & Password entered
+20231031 05:07:47 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java59 - In Accounts Page
+20231031 05:09:50 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java38 - ******login_to_salesforce - password empty automation script started***********
+20231031 05:09:52 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java53 - UserName & Password entered
+20231031 05:09:57 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java59 - In Accounts Page
+20231031 05:15:15 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java39 - ******login_to_salesforce - password empty automation script started***********
+20231031 05:15:18 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java54 - UserName & Password entered
+20231031 05:15:21 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java60 - In Accounts Page
+20231031 05:25:41 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java39 - ******login_to_salesforce - password empty automation script started***********
+20231031 05:25:44 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java54 - UserName & Password entered
+20231031 05:25:50 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java60 - In Accounts Page
+20231031 05:30:42 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java39 - ******login_to_salesforce - password empty automation script started***********
+20231031 05:31:26 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java39 - ******login_to_salesforce - password empty automation script started***********
+20231031 05:31:29 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java54 - UserName & Password entered
+20231031 05:31:33 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java60 - In Accounts Page
+20231031 05:33:52 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java39 - ******login_to_salesforce - password empty automation script started***********
+20231031 05:33:55 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java54 - UserName & Password entered
+20231031 05:33:58 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java60 - In Accounts Page
+20231031 05:38:30 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java39 - ******login_to_salesforce - password empty automation script started***********
+20231031 05:38:33 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java54 - UserName & Password entered
+20231031 05:38:37 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java60 - In Accounts Page
+20231031 05:39:45 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java39 - ******login_to_salesforce - password empty automation script started***********
+20231031 05:39:48 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java54 - UserName & Password entered
+20231031 05:39:52 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java60 - In Accounts Page
+20231031 05:49:05 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java39 - ******login_to_salesforce - password empty automation script started***********
+20231031 05:49:09 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java54 - UserName & Password entered
+20231031 05:49:12 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java60 - In Accounts Page
+20231031 06:02:38 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java39 - ******login_to_salesforce - password empty automation script started***********
+20231031 06:02:41 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java54 - UserName & Password entered
+20231031 06:02:50 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java60 - In Accounts Page
+20231031 06:07:07 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java39 - ******login_to_salesforce - password empty automation script started***********
+20231031 06:07:10 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java54 - UserName & Password entered
+20231031 06:07:13 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java60 - In Accounts Page
+20231031 06:11:45 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java39 - ******login_to_salesforce - password empty automation script started***********
+20231031 06:11:49 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java54 - UserName & Password entered
+20231031 06:11:52 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java60 - In Accounts Page
+20231031 06:13:02 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java39 - ******login_to_salesforce - password empty automation script started***********
+20231031 06:13:06 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java54 - UserName & Password entered
+20231031 06:13:11 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java60 - In Accounts Page
+20231031 06:14:17 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java39 - ******login_to_salesforce - password empty automation script started***********
+20231031 06:14:21 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java54 - UserName & Password entered
+20231031 06:14:27 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java60 - In Accounts Page
+20231110 12:00:54 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java169 - ******CreatenewviewofAccount automation script started***********
+20231110 12:00:56 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java169 - ******CreatenewviewofAccount automation script started***********
+20231110 12:00:57 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java169 - ******CreatenewviewofAccount automation script started***********
+20231110 12:00:58 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java169 - ******CreatenewviewofAccount automation script started***********
+20231110 12:02:08 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java169 - ******CreatenewviewofAccount automation script started***********
+20231110 12:02:10 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java183 - UserName & Password entered
+20231110 12:02:12 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java183 - UserName & Password entered
+20231110 12:02:12 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java183 - UserName & Password entered
+20231110 12:02:15 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java183 - UserName & Password entered
+20231110 12:02:24 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java189 - In Accounts Page
+20231110 12:02:24 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java189 - In Accounts Page
+20231110 12:02:24 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java189 - In Accounts Page
+20231110 12:02:27 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java189 - In Accounts Page
+20231110 12:02:28 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java183 - UserName & Password entered
+20231110 12:02:32 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java189 - In Accounts Page
+20231110 12:04:42 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java169 - ******CreatenewviewofAccount automation script started***********
+20231110 12:04:46 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java183 - UserName & Password entered
+20231110 12:04:49 INFO  [main] Scripts.SalesforceAccountReport SalesforceAccountReport.java189 - In Accounts Page
+20231110 14:38:47 INFO  [main] Scripts.SalesForceCreateOpty SalesForceCreateOpty.java38 - ******OpportunitiesDropdown automation script started***********
+20231110 14:38:50 INFO  [main] Scripts.SalesForceCreateOpty SalesForceCreateOpty.java53 - UserName & Password entered
+20231110 15:55:50 INFO  [main] Scripts.SalesForceLeads SalesForceLeads.java38 - ******OpportunitiesDropdown automation script started***********
+20231110 15:55:54 INFO  [main] Scripts.SalesForceLeads SalesForceLeads.java53 - UserName & Password entered
+20231111 08:25:15 INFO  [main] Scripts.SalesForceCreateOpty SalesForceCreateOpty.java203 - ******TestQuarterlySummaryReport automation script started***********
+20231111 08:25:19 INFO  [main] Scripts.SalesForceCreateOpty SalesForceCreateOpty.java218 - UserName & Password entered
+20231111 08:44:20 INFO  [main] Scripts.SalesForceLeads SalesForceLeads.java70 - ******TodaysLeadswork automation script started***********
+20231111 08:44:24 INFO  [main] Scripts.SalesForceLeads SalesForceLeads.java85 - UserName & Password entered
+20231111 08:46:08 INFO  [main] Scripts.SalesForceLeads SalesForceLeads.java70 - ******TodaysLeadswork automation script started***********
+20231111 08:46:12 INFO  [main] Scripts.SalesForceLeads SalesForceLeads.java85 - UserName & Password entered
+20231125 21:40:24 INFO  [main] Scripts.SalesforceLoginScript SalesforceLoginScript.java87 - ******login_to_salesforce_CheckRemeberMe automation script started***********
+20231125 21:40:29 INFO  [main] Scripts.SalesforceLoginScript SalesforceLoginScript.java193 - ******login_to_salesforce - ForgotPassword automation script started***********
+20240715 16:19:23 INFO  [main] Scripts.SalesforceLoginScript SalesforceLoginScript.java87 - ******login_to_salesforce_CheckRemeberMe automation script started***********
+20240715 16:19:41 INFO  [main] Scripts.SalesforceLoginScript SalesforceLoginScript.java193 - ******login_to_salesforce - ForgotPassword automation script started***********
+20240715 16:19:54 INFO  [main] Scripts.SalesforceLoginScript SalesforceLoginScript.java248 - ******login_to_salesforce_ForgotPassword script completed***********
+20240715 16:20:01 INFO  [main] Scripts.SalesforceLoginScript SalesforceLoginScript.java314 - ******login_to_salesforce_IncorrectCredentials automation script started***********
+20240715 16:20:14 INFO  [main] Scripts.SalesforceLoginScript SalesforceLoginScript.java362 - ******login_to_salesforce_IncorrectCredentials script completed***********
+20240715 16:20:21 INFO  [main] Scripts.SalesforceLoginScript SalesforceLoginScript.java29 - ******login_to_salesforce - password empty automation script started***********
+20240715 16:20:28 INFO  [main] Scripts.SalesforceLoginScript SalesforceLoginScript.java79 - ******login_to_salesforce - password empty automation script completed***********
+20240715 16:20:35 INFO  [main] Scripts.SalesforceLoginScript SalesforceLoginScript.java257 - ******login_to_salesforce - successfully automation script started***********
+20240715 16:20:47 INFO  [main] Scripts.SalesforceLoginScript SalesforceLoginScript.java305 - ******login_to_salesforce - successfully script completed***********
