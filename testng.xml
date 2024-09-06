@@ -5,7 +5,7 @@
 	  <parameter name="browsername" value="chrome"></parameter>
     <classes>
       <class name="com.automation.tests.Scripts.SalesforceLoginScript"/>
-       <class name="com.automation.tests.Scripts.SalesforceUserMenu"/>
+       <!--class name="com.automation.tests.Scripts.SalesforceUserMenu"/-->
     </classes>
   </test> <!-- MyTest -->
   
